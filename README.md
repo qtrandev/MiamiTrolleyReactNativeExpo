@@ -2,7 +2,7 @@
 
 React Native app showing Miami-Dade trolleys on a map shown through Expo Snack.
 
-# How To Use
+## How To Use
 
 1. Copy app.js content to Expo. https://snack.expo.io  
 2. Download the Expo app on your phone. (Optional since Expo website has phone emulators when you click the Preview toggle)  
@@ -14,8 +14,8 @@ React Native app showing Miami-Dade trolleys on a map shown through Expo Snack.
 
 ## Expo Phone App
 
-![](https://github.com/qtrandev/MiamiTrolleyReactNativeExpo/blob/master/screenshot2.png)
+<img src="https://github.com/qtrandev/MiamiTrolleyReactNativeExpo/blob/master/screenshot2.png" width="350">  
 
 ## Miami Trolley App On Phone
 
-![](https://github.com/qtrandev/MiamiTrolleyReactNativeExpo/blob/master/screenshot3.png)
+<img src="https://github.com/qtrandev/MiamiTrolleyReactNativeExpo/blob/master/screenshot3.png" width="350">  
